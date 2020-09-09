@@ -1,16 +1,26 @@
-### Hi there 👋
+# 🐍 I am working on becoming a bad ass BackEnd Developer 🧑🏻‍💻
 
-<!--
-**JasoSalgado/JasoSalgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Python 3.8.4 (default, Jul 14 2020, 02:58:48) 
+    [Clang 11.0.3 (clang-1103.0.32.62)] on darwin
+    Type "help", "copyright", "credits" or "license" for more information.
+    
+    >>> def to_titlecase(input_string:str) -> str:
+    ...     return input_string.title()
+    ... 
+    >>> assert to_titlecase("backend developer") == "Backend Developer"
+    >>> assert to_titlecase("data scientist") == "Data Scientist"
 
-Here are some ideas to get you started:
+   ## 🧰 Tools 😎
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    >>> def backend_developer_tools(*argv) -> str:
+    ...	    return ''.join(argv)
+    ...
+    >>> assert backend_developer_tools("Python_", "Django_", "PostgreSQL") == "Python_Django_PostgreSQL"
+
+    >>> def data_science_tools(*argv) -> str:
+    ...     return ''.join(argv)
+    ...
+    >>> assert data_science_tools("Pandas_", "Numpy") == "Pandas_Numpy"
+    
+
