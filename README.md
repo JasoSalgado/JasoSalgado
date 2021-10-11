@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasosalgado" target="blank"><img src="https://img.shields.io/twitter/follow/jasosalgado?logo=twitter&style=for-the-badge" alt="jasosalgado" /></a> </p>
 
-- 🔭  I’m currently working on [My personal blog and Data Structures](jasosalgadoblog.herokuapp.com)
+- 🔭  I’m currently working on [My Personal Blog and Data Structures](jasosalgadoblog.herokuapp.com)
 
 - 👨‍💻  All of my projects are available at [https://github.com/JasoSalgado/](https://github.com/JasoSalgado/)
 
