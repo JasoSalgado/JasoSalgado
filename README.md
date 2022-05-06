@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Salgado</h1>
-<h3 align="center"> A diversely skilled Backend Developer with experience in technologies like: Python, Django, NLP, Data Structures, MySQL, PostgreSQL.</h3>
+<h3 align="center"> A diversely skilled Backend Developer with experience in technologies like: Python, Django, Data Structures, MySQL, PostgreSQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasosalgado&label=Profile%20views&color=0e75b6&style=flat" alt="jasosalgado" /> </p>
 
